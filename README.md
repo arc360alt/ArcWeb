@@ -3,7 +3,7 @@ Simple web browser made in python
 
 # Fetures to add
 
-* Downloading files
+* ~~Downloading files~~
 * Improve UI
 * Fix some bugs
 
