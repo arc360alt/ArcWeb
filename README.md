@@ -1,3 +1,5 @@
+# i will probibly be rewriting this in chromium, but that is coming in the future, probibly never lol
+
 # ArcWeb
 Simple web browser made in python
 
