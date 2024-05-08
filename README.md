@@ -1,14 +1,13 @@
-# i will probibly be rewriting this in chromium, but that is coming in the future, probibly never lol
-
-# ArcWeb
-Simple web browser made in python
+# ArcBrowser
+A Advances Chromium Fork Made For Security And Quality
 
 # Fetures to add
 
-* ~~Downloading files~~
-* Improve UI
-* Fix some bugs
+* Litraly Nothing
+* Like this browser if perfect as is rn
+* but if u have any problems
+* report them to me lol
 
-![Screenshot 2024-02-10 081501](https://github.com/arc360alt/ArcWeb/assets/155182753/a8a34335-fa7e-4688-85aa-561a05c7329b)
+![image](https://github.com/arc360alt/ArcWeb/assets/155182753/a66dac6c-fc3e-4cb9-b231-ddf196dc68b2)
 
-# by arc360 and totily not chatgpt lmao
+# By arc360 and The Chromium Team
