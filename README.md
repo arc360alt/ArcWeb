@@ -9,6 +9,13 @@ A Advanced Chromium Fork Made For Security And Quality
 * but if u have any problems
 * report them to me lol
 
+# Updates in 1.0
+
+* is Now Chromium Baised
+* Updated to R126
+* New Logos Added
+* Evrything has changed
+
 ![image](https://github.com/arc360alt/ArcWeb/assets/155182753/a66dac6c-fc3e-4cb9-b231-ddf196dc68b2)
 
 ## By arc360 and The Chromium Team
