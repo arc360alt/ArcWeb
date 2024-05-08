@@ -1,5 +1,5 @@
 # ArcBrowser
-A Advances Chromium Fork Made For Security And Quality
+A Advanced Chromium Fork Made For Security And Quality
 
 # Fetures to add
 
