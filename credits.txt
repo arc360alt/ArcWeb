@@ -1,5 +1,7 @@
 Original browser by The Chromium Team
 Updated Version By Arc360 Studios
+And thanks to Aphrx for the Chromium Script and tutorial
+https://www.youtube.com/watch?v=p34rr443eE0
 
 This and the chromium browser is an open source project
 feal free to fork it
