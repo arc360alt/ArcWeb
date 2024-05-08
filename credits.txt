@@ -1,0 +1,5 @@
+Original browser by The Chromium Team
+Updated Version By Arc360 Studios
+
+This and the chromium browser is an open source project
+feal free to fork it
