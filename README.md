@@ -4,10 +4,9 @@ A Advanced Chromium Fork Made For Security And Quality
 
 # Fetures to add
 
-* Litraly Nothing
-* Like this browser if perfect as is rn
-* but if u have any problems
-* report them to me lol
+* Rewrite in Firefox
+* Reamake the entire browser
+* help me
 
 # Updates in 1.0
 
