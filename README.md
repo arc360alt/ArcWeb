@@ -4,7 +4,7 @@ A Advanced Chromium Fork Made For Security And Quality
 
 # Fetures to add
 
-* Rewrite in Firefox
+* Rewrite in Firefox (Not coming anytime soon due to issues with foxfork)
 * Reamake the entire browser
 * help me
 
