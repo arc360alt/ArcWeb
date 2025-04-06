@@ -1,6 +1,10 @@
 ![ArcBrowser](https://github.com/arc360alt/ArcWeb/assets/155182753/4ac8a800-b738-4409-9824-dc175d804e30)
 A Advanced Chromium Fork Made For Security And Quality
 
+# Python fetures to add
+Rewrite the entire python version (done)
+Make a working requierments.txt file (kinda done)
+publish it
 
 # Fetures to add
 
