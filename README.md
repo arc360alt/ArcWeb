@@ -2,9 +2,9 @@
 A Advanced Chromium Fork Made For Security And Quality
 
 # Python fetures to add
-Rewrite the entire python version (done)
-Make a working requierments.txt file (kinda done)
-publish it
+- Rewrite the entire python version (done)
+- Make a working requierments.txt file (kinda done)
+- publish it
 
 # Fetures to add
 
