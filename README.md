@@ -10,7 +10,7 @@ A Advanced Chromium Fork Made For Security And Quality
 
 * Rewrite in Firefox (Not coming anytime soon due to issues with foxfork)
 * Reamake the entire browser
-* help me
+* may try to attempt to redo FoxFork Forking procsess (4-26-25)
 
 # Updates in 1.0
 
